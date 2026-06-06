@@ -1,5 +1,5 @@
 {
-    "geode": "5.7.0",
+    "geode": "5.7.1",
     "gd": {
         "win": "2.2081",
         "mac": "2.2081",
@@ -7,14 +7,13 @@
         "ios": "2.2081"
     },
     "version": "1.0.0",
-    "id": "MalikHw.del",
-    "name": "del",
-    "developer": "MalikHw",
-    "description": "desc.",
-    "tags": ["yes", "yeah"],
+    "id": "malikhw47.del",
+    "name": "Del",
+    "developer": "MalikHw47",
+    "description": "now the DEL key have a usage.",
+    "tags": ["offline", "utility"],
     "links": {
         "source": "https://github.com/MalikHw/del",
         "community": "https://discord.gg/G9bZ92eg2n"
-    },
-    "settings": {}
+    }
 }
